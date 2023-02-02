@@ -273,10 +273,7 @@ a.btn{
     background: #fff;
 }
 
-.helpSection .icon{
-    color: black;
-    padding-top: 200px;
-}
+
 
 @media (min-width: 768px){
     .hamburger{
