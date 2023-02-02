@@ -273,6 +273,16 @@ a.btn{
     background: #fff;
 }
 
+.learnMoreSection{
+    display: block;
+    max-width: 100%;
+    background-color: #fff;
+    margin: 0 auto;
+    height: 800px;
+    
+    text-align: center;
+}
+
 
 
 @media (min-width: 768px){
