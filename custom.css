@@ -238,6 +238,46 @@ a.btn{
     color: rgb(183, 183, 183);
 }
 
+.helpSection{
+    display: block;
+}
+
+
+.helpSection .container{
+    display: block;
+    max-width: 100%;
+    background-color: var(--lightBlue);
+    margin: 0 auto;
+    height: 440px;
+    
+    text-align: center;
+}
+
+.helpSection h1{
+    font-size: 70px;
+    padding-top: 195px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.helpSection input{
+    width: 700px;
+    padding-left: 15px;
+    border: 1px solid black;
+    border-radius: 7px;
+    box-shadow: #212121;
+    outline: none;
+    height: 50px;
+    color: #333;
+    font-size: 1.5em;
+    background: #fff;
+}
+
+.helpSection .icon{
+    color: black;
+    padding-top: 200px;
+}
+
 @media (min-width: 768px){
     .hamburger{
         display: none;
