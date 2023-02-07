@@ -56,6 +56,18 @@ nav h1{
     letter-spacing: 2px;
 }
 
+nav h2{
+    color: white;
+    padding-left: 10px;
+}
+
+.horizontalDivider{
+    border-right: 2px solid white;
+    width: 4px;
+    height: 30px;
+    padding-left: 10px;
+}
+
 
 
 

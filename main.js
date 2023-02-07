@@ -24,7 +24,5 @@ closeBtn.addEventListener('click', function () {
 
 
 
-//let searchBtn = document.querySelector('.searchBtn'); 
-
 
 
